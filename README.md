@@ -5,4 +5,4 @@ Finds Data Trends using Pandas library.
 Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library.
 Predicting Salary based on given features.
 
-Data files : [survey_results_public.csv](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv)
+Data file : [survey_results_public.csv](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv)
