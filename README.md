@@ -3,7 +3,7 @@
 ### Data analysis using StackOverFlow 2017 survey data. 
 
 ### Objectives:
-- Finds Data Trends using Pandas library.
+- Find Data Trends using Pandas library.
 - Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library.
 - Predicting Salary based on given features.
 
