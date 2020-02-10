@@ -1,9 +1,7 @@
 
-## Status - In progress
-<!-- # Stack-Overflow-Survey-Data-Analysis - In Progress 
-
 ## Data analysis using StackOverFlow 2017 survey data. 
 
+#### Status - In progress
 
 
 ## Project Motivation <a name="Project Motivation"></a>
