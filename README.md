@@ -45,7 +45,7 @@ Data files : [Download](https://www.kaggle.com/stackoverflow/so-survey-2017#surv
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@monika.bagyal/how-to-perform-data-analysis-using-the-crisp-dm-approach-201708f220b2).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
