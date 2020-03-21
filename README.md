@@ -1,19 +1,13 @@
 
 # Data Analysis on StackOverFlow Developer Survey 2017 Dataset
 I have used CRISP-DM process during this analysis. 
-- Business Understanding - Started analysis with posed questions in mind.
-- Data Understanding - Going through the dataset, to better understand, how to use it for my analysis. For example: which columns will be helpful to answer a particular questions.
-- Prepare Data - At various points, I have to do data wrangling and perform data transformation to achieve the results. Keeping DRY techniques in mind, I have also created a function to draw plotly barchart as this code was repeating often.
-- Model Data - My analysis does not involve modeling step. I might add this in my future work.
-- Results - I am using visualizations like barchart and piecharts to convey my findings, I have added result statement at the end of every visualization for easy understanding of thought process.
-- Deploy - I am not deploying this code anywhere right now. For now, it is available in jupyter notebook form only.
+1. Business Understanding - Started analysis with posed questions in mind.
+2. Data Understanding - To better understand the data, I started going through the dataset and noted points as how to use it for my analysis. For example: which columns will be helpful to answer a particular questions?
+3. Prepare Data - At various points, I have to do data wrangling and perform data transformation to achieve the results. Keeping DRY techniques in mind, I have also created a function to draw plotly barchart as this code was repeating often.
+4. Model Data - My analysis does not involve modeling step. I might add this in my future work.
+5. Results - I am using visualizations like barchart and piecharts to convey my findings, also added result statements at the end of every visualization for easy understanding of thought process.
+6. Deploy - I am not deploying this code anywhere right now. For now, it is available in jupyter notebook form only.
 
-
-
-
-## Project Motivation <a name="Project Motivation"></a>
-- Find Data Trends using Pandas library.
-- Creating visuals to better understand the survey results, using Plotly, Seaborn, Matplotlib and Pandas library.
 
  
 Data files : [Download](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv)
