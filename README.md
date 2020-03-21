@@ -10,7 +10,7 @@ I have used CRISP-DM process during this analysis.
 
 
  
-Data files : [Download](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv)
+
 
 ### Table of Contents
 
@@ -40,7 +40,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 ## File Descriptions <a name="files"></a>
 
 There is one notebook available here to showcase work related to the above questions.  This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
+Data files : [Download](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv)
 
 
 ## Results<a name="results"></a>
