@@ -1,5 +1,5 @@
 
-## Data analysis using StackOverFlow 2017 survey data. 
+# Data Analysis on StackOverFlow Developer Survey 2017 Dataset
 I have used CRISP-DM process during this analysis. 
 - Business Understanding - Started analysis with posed questions in mind.
 - Data Understanding - Going through the dataset, to better understand, how to use it for my analysis. For example: which columns will be helpful to answer a particular questions.
